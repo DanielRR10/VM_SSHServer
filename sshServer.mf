@@ -1,0 +1,3 @@
+SHA256(sshServer.ovf)= fc4046423ceb8ab51b674ab7d7a42a1376f8333b4213b0e534f5a1e0be7ffe8b
+SHA256(sshServer-file1.iso)= 396553f005ad9f86a51e246b1540c60cef676f9c71b95e22b753faef59f89bee
+SHA256(sshServer-disk1.vmdk)= fb602d0c4b9ae993856d5904a9f281cbb78f237395f39c7fbec6d39c3f814c84
